@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://luoge.github.io/sitemap.xml 
